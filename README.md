@@ -1,9 +1,11 @@
-1) Словник - https://github.com/YK911/basic-dictionary
-2) Як підключити шрифти -
-https://www.loom.com/share/5a37053c507442eb91598efe53952e16
-3) Emmet - https://docs.emmet.io/cheat-sheet/
-4) Гарячі клавіші VSCode для Windows - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-5) Гарячі клавіші VSCode для macOS - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+1. Словник - https://github.com/YK911/basic-dictionary
+2. Як підключити шрифти - https://www.loom.com/share/5a37053c507442eb91598efe53952e16
+3. Emmet - https://docs.emmet.io/cheat-sheet/
+4. Гарячі клавіші VSCode для Windows - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+5. Гарячі клавіші VSCode для macOS - https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
-6) Flexbox - https://codepen.io/enxaneta/pen/adLPwv
-7) Sprite - https://www.loom.com/share/458929eb9d204896b359a2a9ea5525da
+6. Flexbox - https://codepen.io/enxaneta/pen/adLPwv
+7. Sprite - https://www.loom.com/share/458929eb9d204896b359a2a9ea5525da
+
+8. Стани валідації інпутів - https://codepen.io/SergeyKorobka/pen/WNWeKVp
+9. Команди гіт - https://gist.github.com/SergeyKorobka/2f534c8eeefa6c5494a735564b09612e
