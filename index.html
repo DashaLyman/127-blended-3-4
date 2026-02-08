@@ -63,9 +63,9 @@
     </header>
 
     <main>
-      <section class="catalog-section">
+      <section class="section catalog-section">
         <div class="container">
-          <h2 class="catalog-title">Catalog</h2>
+          <h2 class="section-title">Catalog</h2>
           <ul class="catalog-list">
             <li class="catalog-list-item">
               <img
@@ -134,8 +134,116 @@
           </ul>
         </div>
       </section>
+
+      <section class="section contacts-section">
+        <div class="container">
+          <h2 class="section-title">Contact Us</h2>
+
+          <div class="contacts-inner">
+            <div class="contacts-content">
+              <p class="contacts-form-title">
+                Please use the form below to contact us. Enter your name, email,
+                phone, and message and we'll get back to you shortly.
+              </p>
+
+              <form class="contacts-form">
+                <input
+                  class="contacts-form-input"
+                  type="text"
+                  name="user-name"
+                  aria-label="Name"
+                  placeholder="Name"
+                  required
+                />
+
+                <input
+                  class="contacts-form-input"
+                  type="email"
+                  name="user-email"
+                  aria-label="Email"
+                  placeholder="Email"
+                  required
+                />
+
+                <input
+                  class="contacts-form-input"
+                  type="tel"
+                  name="user-phone"
+                  aria-label="Phone"
+                  placeholder="+380"
+                  required
+                />
+
+                <textarea
+                  class="contacts-form-comment"
+                  name="user-comment"
+                  aria-label="Comment"
+                  placeholder="Comment"
+                ></textarea>
+
+                <button class="contacts-form-btn" type="submit">Send</button>
+              </form>
+            </div>
+            <div class="contacts-img-wrapper">
+              <img
+                src="./images/contacts-img.jpg"
+                alt="clock"
+                width="530"
+                height="556"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
 
     <footer></footer>
+
+    <div class="backdrop">
+      <div class="modal">
+        <p class="contacts-form-title">
+          Please use the form below to contact us. Enter your name, email,
+          phone, and message and we'll get back to you shortly.
+        </p>
+
+        <form class="contacts-form">
+          <input
+            class="contacts-form-input"
+            type="text"
+            name="user-name"
+            aria-label="Name"
+            placeholder="Name"
+            required
+          />
+
+          <input
+            class="contacts-form-input"
+            type="email"
+            name="user-email"
+            aria-label="Email"
+            placeholder="Email"
+            required
+          />
+
+          <input
+            class="contacts-form-input"
+            type="tel"
+            name="user-phone"
+            aria-label="Phone"
+            placeholder="+380"
+            required
+          />
+
+          <textarea
+            class="contacts-form-comment"
+            name="user-comment"
+            aria-label="Comment"
+            placeholder="Comment"
+          ></textarea>
+
+          <button class="contacts-form-btn" type="submit">Send</button>
+        </form>
+      </div>
+    </div>
   </body>
 </html>
